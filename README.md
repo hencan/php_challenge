@@ -15,7 +15,7 @@ Live: [heroku link](https://wordlinerchallenge.herokuapp.com/)
 
 You can clone this repository and run it in a container or directly on your machine.
 
-`git clone 'http://link.git'`
+`git clone https://github.com/hencan/php_challenge.git`
 
 To run the project you will need to perform the steps below:
 
